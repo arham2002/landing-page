@@ -2,7 +2,7 @@
   "name": "landing-page",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://myusername.github.io/landing-page",
+  "homepage": "https://arham2002.github.io/landing-page",
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i src/style.css -o public/style.css",
